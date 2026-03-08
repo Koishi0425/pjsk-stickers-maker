@@ -130,9 +130,3 @@ npm run preview
 - **[u/SherenPlaysGames](https://www.reddit.com/r/ProjectSekai/comments/x1h4v1/)** - 原创贴纸生成器创意
 
 感谢所有原项目的贡献者！
-
-## ⭐ Star History
-
-如果这个项目对你有帮助，请给我们一个 Star！
-
-[![Star History Chart](https://api.star-history.com/svg?repos=25-ji-code-de/stickers-maker&type=Date)](https://star-history.com/#25-ji-code-de/stickers-maker&Date)
