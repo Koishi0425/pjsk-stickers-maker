@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #212121;
+}
+
+@font-face {
+  font-family: "YurukaStd";
+  src:
+    local("YurukaStd"),
+    url(./fonts/YurukaStd.woff2) format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SSFangTangTi";
+  src:
+    local("SSFangTangTi"),
+    url(./fonts/ShangShouFangTangTi.woff2) format("woff2");
+  font-display: swap;
+}

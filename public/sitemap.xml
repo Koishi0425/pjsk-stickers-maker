@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://st.nightcord.de5.net/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://st.nightcord.de5.net/og-image.png</image:loc>
+      <image:title>Project SEKAI 世界计划贴纸生成器</image:title>
+      <image:caption>为你喜欢的世界计划角色定制专属贴纸</image:caption>
+    </image:image>
+  </url>
+</urlset>

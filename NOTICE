@@ -1,0 +1,78 @@
+Project Sekai Stickers Maker
+Copyright (C) 2026 The 25-ji-code-de Team
+
+This project is licensed under the GNU Affero General Public License v3.0.
+See LICENSE file for details.
+
+================================================================================
+
+This project is derived from and combines code from:
+
+1. TheOriginalAyaka/sekai-stickers
+   Copyright (c) 2022 Ayaka
+   Licensed under the MIT License
+   https://github.com/TheOriginalAyaka/sekai-stickers
+
+2. BedrockDigger/sekai-stickers (fork of TheOriginalAyaka)
+   Copyright (c) 2022 Ayaka
+   Licensed under the MIT License
+   https://github.com/BedrockDigger/sekai-stickers
+
+Note: The repository atnightcord/sekai-stickers (which this project also
+references) does not contain a license file. We have made efforts to contact
+the maintainers and use only code patterns and concepts rather than direct
+copying where license is unclear.
+
+Original stamp creator concept by u/SherenPlaysGames
+https://www.reddit.com/r/ProjectSekai/comments/x1h4v1/
+
+================================================================================
+
+MIT License (for components derived from Ayaka's original work):
+
+Copyright (c) 2022 Ayaka
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+
+Project SEKAI Assets Notice:
+
+This project uses character sticker images from "Project SEKAI COLORFUL STAGE!
+feat. Hatsune Miku". These assets are copyrighted by:
+- SEGA Corporation
+- Colorful Palette Inc.
+- Crypton Future Media, INC.
+
+This is an unofficial fan project and is not affiliated with or endorsed by
+the copyright holders. All game assets remain the property of their respective
+owners and are used under fair use for non-commercial purposes.
+
+================================================================================
+
+Third-Party Libraries:
+
+This project uses the following open-source libraries:
+- React (MIT License)
+- Material-UI (MIT License)
+- Vite (MIT License)
+- fast-average-color (MIT License)
+
+Full license information for these libraries can be found in their respective
+package documentation or in the node_modules directory.

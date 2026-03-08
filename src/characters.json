@@ -1,0 +1,4669 @@
+[
+    {
+        "id": "3",
+        "name": "桃井爱莉 01",
+        "character": "airi",
+        "img": "airi/airi_01.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "4",
+        "name": "桃井爱莉 02",
+        "character": "airi",
+        "img": "airi/airi_02.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": 0,
+            "s": 28
+        }
+    },
+    {
+        "id": "5",
+        "name": "桃井爱莉 03",
+        "character": "airi",
+        "img": "airi/airi_03.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 140,
+            "y": 79,
+            "r": 2,
+            "s": 47
+        }
+    },
+    {
+        "id": "6",
+        "name": "桃井爱莉 04",
+        "character": "airi",
+        "img": "airi/airi_04.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "8",
+        "name": "桃井爱莉 06",
+        "character": "airi",
+        "img": "airi/airi_06.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "9",
+        "name": "桃井爱莉 07",
+        "character": "airi",
+        "img": "airi/airi_07.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "10",
+        "name": "桃井爱莉 08",
+        "character": "airi",
+        "img": "airi/airi_08.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "11",
+        "name": "桃井爱莉 09",
+        "character": "airi",
+        "img": "airi/airi_09.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "13",
+        "name": "桃井爱莉 11",
+        "character": "airi",
+        "img": "airi/airi_11.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "14",
+        "name": "桃井爱莉 12",
+        "character": "airi",
+        "img": "airi/airi_12.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "15",
+        "name": "桃井爱莉 13",
+        "character": "airi",
+        "img": "airi/airi_13.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "16",
+        "name": "桃井爱莉 14",
+        "character": "airi",
+        "img": "airi/airi_14.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "18",
+        "name": "桃井爱莉 16",
+        "character": "airi",
+        "img": "airi/airi_16.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "19",
+        "name": "东云彰人 01",
+        "character": "akt",
+        "img": "akt/akt_01.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "20",
+        "name": "东云彰人 02",
+        "character": "akt",
+        "img": "akt/akt_02.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "21",
+        "name": "东云彰人 03",
+        "character": "akt",
+        "img": "akt/akt_03.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "22",
+        "name": "东云彰人 04",
+        "character": "akt",
+        "img": "akt/akt_04.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "24",
+        "name": "东云彰人 06",
+        "character": "akt",
+        "img": "akt/akt_06.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "25",
+        "name": "东云彰人 07",
+        "character": "akt",
+        "img": "akt/akt_07.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "26",
+        "name": "东云彰人 08",
+        "character": "akt",
+        "img": "akt/akt_08.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "27",
+        "name": "东云彰人 09",
+        "character": "akt",
+        "img": "akt/akt_09.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "29",
+        "name": "东云彰人 11",
+        "character": "akt",
+        "img": "akt/akt_11.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "30",
+        "name": "东云彰人 12",
+        "character": "akt",
+        "img": "akt/akt_12.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "31",
+        "name": "东云彰人 13",
+        "character": "akt",
+        "img": "akt/akt_13.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "32",
+        "name": "东云彰人 14",
+        "character": "akt",
+        "img": "akt/akt_14.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "33",
+        "name": "东云彰人 16",
+        "character": "akt",
+        "img": "akt/akt_16.png",
+        "color": "#FF7722",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "34",
+        "name": "白石杏 01",
+        "character": "an",
+        "img": "an/an_01.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "35",
+        "name": "白石杏 02",
+        "character": "an",
+        "img": "an/an_02.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "36",
+        "name": "白石杏 03",
+        "character": "an",
+        "img": "an/an_03.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "37",
+        "name": "白石杏 04",
+        "character": "an",
+        "img": "an/an_04.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "39",
+        "name": "白石杏 06",
+        "character": "an",
+        "img": "an/an_06.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "40",
+        "name": "白石杏 07",
+        "character": "an",
+        "img": "an/an_07.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "41",
+        "name": "白石杏 08",
+        "character": "an",
+        "img": "an/an_08.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "42",
+        "name": "白石杏 09",
+        "character": "an",
+        "img": "an/an_09.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "44",
+        "name": "白石杏 11",
+        "character": "an",
+        "img": "an/an_11.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "45",
+        "name": "白石杏 12",
+        "character": "an",
+        "img": "an/an_12.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "46",
+        "name": "白石杏 13",
+        "character": "an",
+        "img": "an/an_13.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "47",
+        "name": "白石杏 14",
+        "character": "an",
+        "img": "an/an_14.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "49",
+        "name": "白石杏 16",
+        "character": "an",
+        "img": "an/an_16.png",
+        "color": "#00BADC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "50",
+        "name": "凤笑梦 01",
+        "character": "emu",
+        "img": "emu/emu_01.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "51",
+        "name": "凤笑梦 02",
+        "character": "emu",
+        "img": "emu/emu_02.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "52",
+        "name": "凤笑梦 03",
+        "character": "emu",
+        "img": "emu/emu_03.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "53",
+        "name": "凤笑梦 04",
+        "character": "emu",
+        "img": "emu/emu_04.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "55",
+        "name": "凤笑梦 06",
+        "character": "emu",
+        "img": "emu/emu_06.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "56",
+        "name": "凤笑梦 07",
+        "character": "emu",
+        "img": "emu/emu_07.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "57",
+        "name": "凤笑梦 08",
+        "character": "emu",
+        "img": "emu/emu_08.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "58",
+        "name": "凤笑梦 09",
+        "character": "emu",
+        "img": "emu/emu_09.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "60",
+        "name": "凤笑梦 11",
+        "character": "emu",
+        "img": "emu/emu_11.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "61",
+        "name": "凤笑梦 12",
+        "character": "emu",
+        "img": "emu/emu_12.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "62",
+        "name": "凤笑梦 13",
+        "character": "emu",
+        "img": "emu/emu_13.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 70,
+            "r": -2,
+            "s": 38
+        }
+    },
+    {
+        "id": "63",
+        "name": "凤笑梦 14",
+        "character": "emu",
+        "img": "emu/emu_14.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "65",
+        "name": "凤笑梦 16",
+        "character": "emu",
+        "img": "emu/emu_16.png",
+        "color": "#FF66BB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "66",
+        "name": "东云绘名 01",
+        "character": "ena",
+        "img": "ena/ena_01.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "67",
+        "name": "东云绘名 02",
+        "character": "ena",
+        "img": "ena/ena_02.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "68",
+        "name": "东云绘名 03",
+        "character": "ena",
+        "img": "ena/ena_03.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "69",
+        "name": "东云绘名 04",
+        "character": "ena",
+        "img": "ena/ena_04.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "71",
+        "name": "东云绘名 06",
+        "character": "ena",
+        "img": "ena/ena_06.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "72",
+        "name": "东云绘名 07",
+        "character": "ena",
+        "img": "ena/ena_07.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "73",
+        "name": "东云绘名 08",
+        "character": "ena",
+        "img": "ena/ena_08.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "74",
+        "name": "东云绘名 09",
+        "character": "ena",
+        "img": "ena/ena_09.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "76",
+        "name": "东云绘名 11",
+        "character": "ena",
+        "img": "ena/ena_11.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "77",
+        "name": "东云绘名 12",
+        "character": "ena",
+        "img": "ena/ena_12.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "78",
+        "name": "东云绘名 13",
+        "character": "ena",
+        "img": "ena/ena_13.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "79",
+        "name": "东云绘名 14",
+        "character": "ena",
+        "img": "ena/ena_14.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "81",
+        "name": "东云绘名 16",
+        "character": "ena",
+        "img": "ena/ena_16.png",
+        "color": "#B18F6C",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "81",
+        "name": "桐谷遥 01",
+        "character": "hrk",
+        "img": "hrk/hrk_01.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "82",
+        "name": "桐谷遥 02",
+        "character": "hrk",
+        "img": "hrk/hrk_02.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "83",
+        "name": "桐谷遥 03",
+        "character": "hrk",
+        "img": "hrk/hrk_03.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "84",
+        "name": "桐谷遥 04",
+        "character": "hrk",
+        "img": "hrk/hrk_04.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "85",
+        "name": "桐谷遥 06",
+        "character": "hrk",
+        "img": "hrk/hrk_06.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "86",
+        "name": "桐谷遥 07",
+        "character": "hrk",
+        "img": "hrk/hrk_07.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "87",
+        "name": "桐谷遥 08",
+        "character": "hrk",
+        "img": "hrk/hrk_08.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "88",
+        "name": "桐谷遥 09",
+        "character": "hrk",
+        "img": "hrk/hrk_09.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "89",
+        "name": "桐谷遥 11",
+        "character": "hrk",
+        "img": "hrk/hrk_11.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "90",
+        "name": "桐谷遥 12",
+        "character": "hrk",
+        "img": "hrk/hrk_12.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "91",
+        "name": "桐谷遥 13",
+        "character": "hrk",
+        "img": "hrk/hrk_13.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "92",
+        "name": "桐谷遥 14",
+        "character": "hrk",
+        "img": "hrk/hrk_14.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "93",
+        "name": "桐谷遥 16",
+        "character": "hrk",
+        "img": "hrk/hrk_16.png",
+        "color": "#6495F0",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "94",
+        "name": "望月穗波 01",
+        "character": "hnm",
+        "img": "hnm/hnm_01.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "95",
+        "name": "望月穗波 02",
+        "character": "hnm",
+        "img": "hnm/hnm_02.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "96",
+        "name": "望月穗波 03",
+        "character": "hnm",
+        "img": "hnm/hnm_03.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "97",
+        "name": "望月穗波 04",
+        "character": "hnm",
+        "img": "hnm/hnm_04.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "98",
+        "name": "望月穗波 06",
+        "character": "hnm",
+        "img": "hnm/hnm_06.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "99",
+        "name": "望月穗波 07",
+        "character": "hnm",
+        "img": "hnm/hnm_07.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "100",
+        "name": "望月穗波 08",
+        "character": "hnm",
+        "img": "hnm/hnm_08.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "101",
+        "name": "望月穗波 09",
+        "character": "hnm",
+        "img": "hnm/hnm_09.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "102",
+        "name": "望月穗波 11",
+        "character": "hnm",
+        "img": "hnm/hnm_11.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "103",
+        "name": "望月穗波 12",
+        "character": "hnm",
+        "img": "hnm/hnm_12.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "104",
+        "name": "望月穗波 13",
+        "character": "hnm",
+        "img": "hnm/hnm_13.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "105",
+        "name": "望月穗波 14",
+        "character": "hnm",
+        "img": "hnm/hnm_14.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "106",
+        "name": "望月穗波 16",
+        "character": "hnm",
+        "img": "hnm/hnm_16.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "107",
+        "name": "望月穗波 17",
+        "character": "hnm",
+        "img": "hnm/hnm_17.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "108",
+        "name": "望月穗波 18",
+        "character": "hnm",
+        "img": "hnm/hnm_18.png",
+        "color": "#F86666",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "109",
+        "name": "星乃一歌 01",
+        "character": "ick",
+        "img": "ick/ick_01.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "110",
+        "name": "星乃一歌 02",
+        "character": "ick",
+        "img": "ick/ick_02.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "111",
+        "name": "星乃一歌 03",
+        "character": "ick",
+        "img": "ick/ick_03.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "112",
+        "name": "星乃一歌 04",
+        "character": "ick",
+        "img": "ick/ick_04.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "113",
+        "name": "星乃一歌 06",
+        "character": "ick",
+        "img": "ick/ick_06.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "114",
+        "name": "星乃一歌 07",
+        "character": "ick",
+        "img": "ick/ick_07.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "115",
+        "name": "星乃一歌 08",
+        "character": "ick",
+        "img": "ick/ick_08.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "116",
+        "name": "星乃一歌 09",
+        "character": "ick",
+        "img": "ick/ick_09.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "117",
+        "name": "星乃一歌 11",
+        "character": "ick",
+        "img": "ick/ick_11.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "118",
+        "name": "星乃一歌 12",
+        "character": "ick",
+        "img": "ick/ick_12.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "119",
+        "name": "星乃一歌 13",
+        "character": "ick",
+        "img": "ick/ick_13.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "120",
+        "name": "星乃一歌 14",
+        "character": "ick",
+        "img": "ick/ick_14.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "121",
+        "name": "星乃一歌 16",
+        "character": "ick",
+        "img": "ick/ick_16.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "122",
+        "name": "星乃一歌 17",
+        "character": "ick",
+        "img": "ick/ick_17.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "123",
+        "name": "星乃一歌 18",
+        "character": "ick",
+        "img": "ick/ick_18.png",
+        "color": "#33AAEE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "124",
+        "name": "KAITO 01",
+        "character": "kaito",
+        "img": "kaito/kaito_01.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "125",
+        "name": "KAITO 02",
+        "character": "kaito",
+        "img": "kaito/kaito_02.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "126",
+        "name": "KAITO 03",
+        "character": "kaito",
+        "img": "kaito/kaito_03.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "127",
+        "name": "KAITO 04",
+        "character": "kaito",
+        "img": "kaito/kaito_04.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "128",
+        "name": "KAITO 06",
+        "character": "kaito",
+        "img": "kaito/kaito_06.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "129",
+        "name": "KAITO 07",
+        "character": "kaito",
+        "img": "kaito/kaito_07.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "130",
+        "name": "KAITO 08",
+        "character": "kaito",
+        "img": "kaito/kaito_08.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "131",
+        "name": "KAITO 09",
+        "character": "kaito",
+        "img": "kaito/kaito_09.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "132",
+        "name": "KAITO 11",
+        "character": "kaito",
+        "img": "kaito/kaito_11.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "133",
+        "name": "KAITO 12",
+        "character": "kaito",
+        "img": "kaito/kaito_12.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "134",
+        "name": "KAITO 13",
+        "character": "kaito",
+        "img": "kaito/kaito_13.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "135",
+        "name": "KAITO 14",
+        "character": "kaito",
+        "img": "kaito/kaito_14.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "136",
+        "name": "KAITO 16",
+        "character": "kaito",
+        "img": "kaito/kaito_16.png",
+        "color": "#3366CC",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "137",
+        "name": "宵崎奏 01",
+        "character": "knd",
+        "img": "knd/knd_01.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "138",
+        "name": "宵崎奏 02",
+        "character": "knd",
+        "img": "knd/knd_02.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "139",
+        "name": "宵崎奏 03",
+        "character": "knd",
+        "img": "knd/knd_03.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "140",
+        "name": "宵崎奏 04",
+        "character": "knd",
+        "img": "knd/knd_04.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "141",
+        "name": "宵崎奏 06",
+        "character": "knd",
+        "img": "knd/knd_06.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "142",
+        "name": "宵崎奏 07",
+        "character": "knd",
+        "img": "knd/knd_07.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "143",
+        "name": "宵崎奏 08",
+        "character": "knd",
+        "img": "knd/knd_08.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "144",
+        "name": "宵崎奏 09",
+        "character": "knd",
+        "img": "knd/knd_09.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "145",
+        "name": "宵崎奏 11",
+        "character": "knd",
+        "img": "knd/knd_11.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "146",
+        "name": "宵崎奏 12",
+        "character": "knd",
+        "img": "knd/knd_12.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "147",
+        "name": "宵崎奏 13",
+        "character": "knd",
+        "img": "knd/knd_13.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "148",
+        "name": "宵崎奏 14",
+        "character": "knd",
+        "img": "knd/knd_14.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "149",
+        "name": "宵崎奏 16",
+        "character": "knd",
+        "img": "knd/knd_16.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "150",
+        "name": "宵崎奏 17",
+        "character": "knd",
+        "img": "knd/knd_17.png",
+        "color": "#BB6688",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "151",
+        "name": "小豆泽心羽 01",
+        "character": "khn",
+        "img": "khn/khn_01.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "152",
+        "name": "小豆泽心羽 02",
+        "character": "khn",
+        "img": "khn/khn_02.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "153",
+        "name": "小豆泽心羽 03",
+        "character": "khn",
+        "img": "khn/khn_03.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "154",
+        "name": "小豆泽心羽 04",
+        "character": "khn",
+        "img": "khn/khn_04.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "155",
+        "name": "小豆泽心羽 06",
+        "character": "khn",
+        "img": "khn/khn_06.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "156",
+        "name": "小豆泽心羽 07",
+        "character": "khn",
+        "img": "khn/khn_07.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "157",
+        "name": "小豆泽心羽 08",
+        "character": "khn",
+        "img": "khn/khn_08.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "158",
+        "name": "小豆泽心羽 09",
+        "character": "khn",
+        "img": "khn/khn_09.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "159",
+        "name": "小豆泽心羽 11",
+        "character": "khn",
+        "img": "khn/khn_11.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "160",
+        "name": "小豆泽心羽 12",
+        "character": "khn",
+        "img": "khn/khn_12.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "161",
+        "name": "小豆泽心羽 13",
+        "character": "khn",
+        "img": "khn/khn_13.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "162",
+        "name": "小豆泽心羽 14",
+        "character": "khn",
+        "img": "khn/khn_14.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "163",
+        "name": "小豆泽心羽 16",
+        "character": "khn",
+        "img": "khn/khn_16.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "164",
+        "name": "小豆泽心羽 17",
+        "character": "khn",
+        "img": "khn/khn_17.png",
+        "color": "#FF6699",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "165",
+        "name": "镜音连 01",
+        "character": "len",
+        "img": "len/len_01.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "166",
+        "name": "镜音连 02",
+        "character": "len",
+        "img": "len/len_02.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "167",
+        "name": "镜音连 03",
+        "character": "len",
+        "img": "len/len_03.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "168",
+        "name": "镜音连 04",
+        "character": "len",
+        "img": "len/len_04.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "169",
+        "name": "镜音连 06",
+        "character": "len",
+        "img": "len/len_06.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "170",
+        "name": "镜音连 07",
+        "character": "len",
+        "img": "len/len_07.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "171",
+        "name": "镜音连 08",
+        "character": "len",
+        "img": "len/len_08.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "172",
+        "name": "镜音连 09",
+        "character": "len",
+        "img": "len/len_09.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "173",
+        "name": "镜音连 11",
+        "character": "len",
+        "img": "len/len_11.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "174",
+        "name": "镜音连 12",
+        "character": "len",
+        "img": "len/len_12.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "175",
+        "name": "镜音连 13",
+        "character": "len",
+        "img": "len/len_13.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "176",
+        "name": "镜音连 14",
+        "character": "len",
+        "img": "len/len_14.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "177",
+        "name": "镜音连 16",
+        "character": "len",
+        "img": "len/len_16.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "178",
+        "name": "镜音连 17",
+        "character": "len",
+        "img": "len/len_17.png",
+        "color": "#D3BD00",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "179",
+        "name": "巡音流歌 01",
+        "character": "luka",
+        "img": "luka/luka_01.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "180",
+        "name": "巡音流歌 02",
+        "character": "luka",
+        "img": "luka/luka_02.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "181",
+        "name": "巡音流歌 03",
+        "character": "luka",
+        "img": "luka/luka_03.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "182",
+        "name": "巡音流歌 04",
+        "character": "luka",
+        "img": "luka/luka_04.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "183",
+        "name": "巡音流歌 06",
+        "character": "luka",
+        "img": "luka/luka_06.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "184",
+        "name": "巡音流歌 07",
+        "character": "luka",
+        "img": "luka/luka_07.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "185",
+        "name": "巡音流歌 08",
+        "character": "luka",
+        "img": "luka/luka_08.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "186",
+        "name": "巡音流歌 09",
+        "character": "luka",
+        "img": "luka/luka_09.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "187",
+        "name": "巡音流歌 11",
+        "character": "luka",
+        "img": "luka/luka_11.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "188",
+        "name": "巡音流歌 12",
+        "character": "luka",
+        "img": "luka/luka_12.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "189",
+        "name": "巡音流歌 13",
+        "character": "luka",
+        "img": "luka/luka_13.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "190",
+        "name": "巡音流歌 14",
+        "character": "luka",
+        "img": "luka/luka_14.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "191",
+        "name": "巡音流歌 16",
+        "character": "luka",
+        "img": "luka/luka_16.png",
+        "color": "#F88CA7",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "192",
+        "name": "朝比奈真冬 01",
+        "character": "mfy",
+        "img": "mfy/mfy_01.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "193",
+        "name": "朝比奈真冬 02",
+        "character": "mfy",
+        "img": "mfy/mfy_02.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "194",
+        "name": "朝比奈真冬 03",
+        "character": "mfy",
+        "img": "mfy/mfy_03.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "195",
+        "name": "朝比奈真冬 04",
+        "character": "mfy",
+        "img": "mfy/mfy_04.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "196",
+        "name": "朝比奈真冬 06",
+        "character": "mfy",
+        "img": "mfy/mfy_06.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "197",
+        "name": "朝比奈真冬 07",
+        "character": "mfy",
+        "img": "mfy/mfy_07.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "198",
+        "name": "朝比奈真冬 08",
+        "character": "mfy",
+        "img": "mfy/mfy_08.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "199",
+        "name": "朝比奈真冬 09",
+        "character": "mfy",
+        "img": "mfy/mfy_09.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "200",
+        "name": "朝比奈真冬 11",
+        "character": "mfy",
+        "img": "mfy/mfy_11.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "201",
+        "name": "朝比奈真冬 12",
+        "character": "mfy",
+        "img": "mfy/mfy_12.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "202",
+        "name": "朝比奈真冬 13",
+        "character": "mfy",
+        "img": "mfy/mfy_13.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "203",
+        "name": "朝比奈真冬 14",
+        "character": "mfy",
+        "img": "mfy/mfy_14.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "204",
+        "name": "朝比奈真冬 16",
+        "character": "mfy",
+        "img": "mfy/mfy_16.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "205",
+        "name": "朝比奈真冬 17",
+        "character": "mfy",
+        "img": "mfy/mfy_17.png",
+        "color": "#7171AF",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "206",
+        "name": "MEIKO 01",
+        "character": "meiko",
+        "img": "meiko/meiko_01.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "207",
+        "name": "MEIKO 02",
+        "character": "meiko",
+        "img": "meiko/meiko_02.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "208",
+        "name": "MEIKO 03",
+        "character": "meiko",
+        "img": "meiko/meiko_03.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "209",
+        "name": "MEIKO 04",
+        "character": "meiko",
+        "img": "meiko/meiko_04.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "210",
+        "name": "MEIKO 06",
+        "character": "meiko",
+        "img": "meiko/meiko_06.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "211",
+        "name": "MEIKO 07",
+        "character": "meiko",
+        "img": "meiko/meiko_07.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "212",
+        "name": "MEIKO 08",
+        "character": "meiko",
+        "img": "meiko/meiko_08.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "213",
+        "name": "MEIKO 09",
+        "character": "meiko",
+        "img": "meiko/meiko_09.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "214",
+        "name": "MEIKO 11",
+        "character": "meiko",
+        "img": "meiko/meiko_11.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "215",
+        "name": "MEIKO 12",
+        "character": "meiko",
+        "img": "meiko/meiko_12.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "216",
+        "name": "MEIKO 13",
+        "character": "meiko",
+        "img": "meiko/meiko_13.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "217",
+        "name": "MEIKO 14",
+        "character": "meiko",
+        "img": "meiko/meiko_14.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "218",
+        "name": "MEIKO 16",
+        "character": "meiko",
+        "img": "meiko/meiko_16.png",
+        "color": "#E4485F",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "219",
+        "name": "初音未来 01",
+        "character": "miku",
+        "img": "miku/miku_01.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "220",
+        "name": "初音未来 02",
+        "character": "miku",
+        "img": "miku/miku_02.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "221",
+        "name": "初音未来 03",
+        "character": "miku",
+        "img": "miku/miku_03.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "222",
+        "name": "初音未来 04",
+        "character": "miku",
+        "img": "miku/miku_04.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "223",
+        "name": "初音未来 06",
+        "character": "miku",
+        "img": "miku/miku_06.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "224",
+        "name": "初音未来 07",
+        "character": "miku",
+        "img": "miku/miku_07.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "225",
+        "name": "初音未来 08",
+        "character": "miku",
+        "img": "miku/miku_08.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "226",
+        "name": "初音未来 09",
+        "character": "miku",
+        "img": "miku/miku_09.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "227",
+        "name": "初音未来 11",
+        "character": "miku",
+        "img": "miku/miku_11.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "228",
+        "name": "初音未来 12",
+        "character": "miku",
+        "img": "miku/miku_12.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "229",
+        "name": "初音未来 13",
+        "character": "miku",
+        "img": "miku/miku_13.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "230",
+        "name": "初音未来 14",
+        "character": "miku",
+        "img": "miku/miku_14.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "231",
+        "name": "初音未来 16",
+        "character": "miku",
+        "img": "miku/miku_16.png",
+        "color": "#33CCBB",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "232",
+        "name": "花里实乃理 01",
+        "character": "mnr",
+        "img": "mnr/mnr_01.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "233",
+        "name": "花里实乃理 02",
+        "character": "mnr",
+        "img": "mnr/mnr_02.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "234",
+        "name": "花里实乃理 03",
+        "character": "mnr",
+        "img": "mnr/mnr_03.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "235",
+        "name": "花里实乃理 04",
+        "character": "mnr",
+        "img": "mnr/mnr_04.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "236",
+        "name": "花里实乃理 06",
+        "character": "mnr",
+        "img": "mnr/mnr_06.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "237",
+        "name": "花里实乃理 07",
+        "character": "mnr",
+        "img": "mnr/mnr_07.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "238",
+        "name": "花里实乃理 08",
+        "character": "mnr",
+        "img": "mnr/mnr_08.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "239",
+        "name": "花里实乃理 09",
+        "character": "mnr",
+        "img": "mnr/mnr_09.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "240",
+        "name": "花里实乃理 11",
+        "character": "mnr",
+        "img": "mnr/mnr_11.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "241",
+        "name": "花里实乃理 12",
+        "character": "mnr",
+        "img": "mnr/mnr_12.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "242",
+        "name": "花里实乃理 13",
+        "character": "mnr",
+        "img": "mnr/mnr_13.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "243",
+        "name": "花里实乃理 14",
+        "character": "mnr",
+        "img": "mnr/mnr_14.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "244",
+        "name": "花里实乃理 16",
+        "character": "mnr",
+        "img": "mnr/mnr_16.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "245",
+        "name": "花里实乃理 17",
+        "character": "mnr",
+        "img": "mnr/mnr_17.png",
+        "color": "#F39E7D",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "246",
+        "name": "晓山瑞希 01",
+        "character": "mzk",
+        "img": "mzk/mzk_01.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "247",
+        "name": "晓山瑞希 02",
+        "character": "mzk",
+        "img": "mzk/mzk_02.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "248",
+        "name": "晓山瑞希 03",
+        "character": "mzk",
+        "img": "mzk/mzk_03.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "249",
+        "name": "晓山瑞希 04",
+        "character": "mzk",
+        "img": "mzk/mzk_04.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "250",
+        "name": "晓山瑞希 06",
+        "character": "mzk",
+        "img": "mzk/mzk_06.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "251",
+        "name": "晓山瑞希 07",
+        "character": "mzk",
+        "img": "mzk/mzk_07.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "252",
+        "name": "晓山瑞希 08",
+        "character": "mzk",
+        "img": "mzk/mzk_08.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "253",
+        "name": "晓山瑞希 09",
+        "character": "mzk",
+        "img": "mzk/mzk_09.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "254",
+        "name": "晓山瑞希 11",
+        "character": "mzk",
+        "img": "mzk/mzk_11.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "255",
+        "name": "晓山瑞希 12",
+        "character": "mzk",
+        "img": "mzk/mzk_12.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "256",
+        "name": "晓山瑞希 13",
+        "character": "mzk",
+        "img": "mzk/mzk_13.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "257",
+        "name": "晓山瑞希 14",
+        "character": "mzk",
+        "img": "mzk/mzk_14.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "258",
+        "name": "晓山瑞希 16",
+        "character": "mzk",
+        "img": "mzk/mzk_16.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "259",
+        "name": "晓山瑞希 17",
+        "character": "mzk",
+        "img": "mzk/mzk_17.png",
+        "color": "#CA8DB6",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "260",
+        "name": "草薙宁宁 01",
+        "character": "nene",
+        "img": "nene/nene_01.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "261",
+        "name": "草薙宁宁 02",
+        "character": "nene",
+        "img": "nene/nene_02.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "262",
+        "name": "草薙宁宁 03",
+        "character": "nene",
+        "img": "nene/nene_03.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "263",
+        "name": "草薙宁宁 04",
+        "character": "nene",
+        "img": "nene/nene_04.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "264",
+        "name": "草薙宁宁 06",
+        "character": "nene",
+        "img": "nene/nene_06.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "265",
+        "name": "草薙宁宁 07",
+        "character": "nene",
+        "img": "nene/nene_07.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "266",
+        "name": "草薙宁宁 08",
+        "character": "nene",
+        "img": "nene/nene_08.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "267",
+        "name": "草薙宁宁 09",
+        "character": "nene",
+        "img": "nene/nene_09.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "268",
+        "name": "草薙宁宁 11",
+        "character": "nene",
+        "img": "nene/nene_11.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "269",
+        "name": "草薙宁宁 12",
+        "character": "nene",
+        "img": "nene/nene_12.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "270",
+        "name": "草薙宁宁 13",
+        "character": "nene",
+        "img": "nene/nene_13.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "271",
+        "name": "草薙宁宁 14",
+        "character": "nene",
+        "img": "nene/nene_14.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "272",
+        "name": "草薙宁宁 16",
+        "character": "nene",
+        "img": "nene/nene_16.png",
+        "color": "#19CD94",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "273",
+        "name": "镜音铃 01",
+        "character": "rin",
+        "img": "rin/rin_01.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "274",
+        "name": "镜音铃 02",
+        "character": "rin",
+        "img": "rin/rin_02.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "275",
+        "name": "镜音铃 03",
+        "character": "rin",
+        "img": "rin/rin_03.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "276",
+        "name": "镜音铃 04",
+        "character": "rin",
+        "img": "rin/rin_04.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "277",
+        "name": "镜音铃 06",
+        "character": "rin",
+        "img": "rin/rin_06.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "278",
+        "name": "镜音铃 07",
+        "character": "rin",
+        "img": "rin/rin_07.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "279",
+        "name": "镜音铃 08",
+        "character": "rin",
+        "img": "rin/rin_08.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "280",
+        "name": "镜音铃 09",
+        "character": "rin",
+        "img": "rin/rin_09.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "281",
+        "name": "镜音铃 11",
+        "character": "rin",
+        "img": "rin/rin_11.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "282",
+        "name": "镜音铃 12",
+        "character": "rin",
+        "img": "rin/rin_12.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "283",
+        "name": "镜音铃 13",
+        "character": "rin",
+        "img": "rin/rin_13.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "284",
+        "name": "镜音铃 14",
+        "character": "rin",
+        "img": "rin/rin_14.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "285",
+        "name": "镜音铃 16",
+        "character": "rin",
+        "img": "rin/rin_16.png",
+        "color": "#E8A505",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "286",
+        "name": "神代类 01",
+        "character": "rui",
+        "img": "rui/rui_01.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "287",
+        "name": "神代类 02",
+        "character": "rui",
+        "img": "rui/rui_02.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "288",
+        "name": "神代类 03",
+        "character": "rui",
+        "img": "rui/rui_03.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "289",
+        "name": "神代类 04",
+        "character": "rui",
+        "img": "rui/rui_04.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "290",
+        "name": "神代类 06",
+        "character": "rui",
+        "img": "rui/rui_06.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "291",
+        "name": "神代类 07",
+        "character": "rui",
+        "img": "rui/rui_07.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "292",
+        "name": "神代类 08",
+        "character": "rui",
+        "img": "rui/rui_08.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "293",
+        "name": "神代类 09",
+        "character": "rui",
+        "img": "rui/rui_09.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "294",
+        "name": "神代类 11",
+        "character": "rui",
+        "img": "rui/rui_11.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "295",
+        "name": "神代类 12",
+        "character": "rui",
+        "img": "rui/rui_12.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "296",
+        "name": "神代类 13",
+        "character": "rui",
+        "img": "rui/rui_13.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "297",
+        "name": "神代类 14",
+        "character": "rui",
+        "img": "rui/rui_14.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "298",
+        "name": "神代类 16",
+        "character": "rui",
+        "img": "rui/rui_16.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "299",
+        "name": "神代类 17",
+        "character": "rui",
+        "img": "rui/rui_17.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "300",
+        "name": "神代类 18",
+        "character": "rui",
+        "img": "rui/rui_18.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "301",
+        "name": "神代类 19",
+        "character": "rui",
+        "img": "rui/rui_19.png",
+        "color": "#BB88EE",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "302",
+        "name": "天马咲希 01",
+        "character": "saki",
+        "img": "saki/saki_01.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "303",
+        "name": "天马咲希 02",
+        "character": "saki",
+        "img": "saki/saki_02.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "304",
+        "name": "天马咲希 03",
+        "character": "saki",
+        "img": "saki/saki_03.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "305",
+        "name": "天马咲希 04",
+        "character": "saki",
+        "img": "saki/saki_04.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "306",
+        "name": "天马咲希 06",
+        "character": "saki",
+        "img": "saki/saki_06.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "307",
+        "name": "天马咲希 07",
+        "character": "saki",
+        "img": "saki/saki_07.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "308",
+        "name": "天马咲希 08",
+        "character": "saki",
+        "img": "saki/saki_08.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "309",
+        "name": "天马咲希 09",
+        "character": "saki",
+        "img": "saki/saki_09.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "310",
+        "name": "天马咲希 11",
+        "character": "saki",
+        "img": "saki/saki_11.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "311",
+        "name": "天马咲希 12",
+        "character": "saki",
+        "img": "saki/saki_12.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "312",
+        "name": "天马咲希 13",
+        "character": "saki",
+        "img": "saki/saki_13.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "313",
+        "name": "天马咲希 14",
+        "character": "saki",
+        "img": "saki/saki_14.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "314",
+        "name": "天马咲希 16",
+        "character": "saki",
+        "img": "saki/saki_16.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "315",
+        "name": "天马咲希 17",
+        "character": "saki",
+        "img": "saki/saki_17.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "316",
+        "name": "天马咲希 18",
+        "character": "saki",
+        "img": "saki/saki_18.png",
+        "color": "#F5B303",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "317",
+        "name": "日野森志步 01",
+        "character": "shiho",
+        "img": "shiho/shiho_01.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "318",
+        "name": "日野森志步 02",
+        "character": "shiho",
+        "img": "shiho/shiho_02.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "319",
+        "name": "日野森志步 03",
+        "character": "shiho",
+        "img": "shiho/shiho_03.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "320",
+        "name": "日野森志步 04",
+        "character": "shiho",
+        "img": "shiho/shiho_04.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "321",
+        "name": "日野森志步 06",
+        "character": "shiho",
+        "img": "shiho/shiho_06.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "322",
+        "name": "日野森志步 07",
+        "character": "shiho",
+        "img": "shiho/shiho_07.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "323",
+        "name": "日野森志步 08",
+        "character": "shiho",
+        "img": "shiho/shiho_08.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "324",
+        "name": "日野森志步 09",
+        "character": "shiho",
+        "img": "shiho/shiho_09.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "325",
+        "name": "日野森志步 11",
+        "character": "shiho",
+        "img": "shiho/shiho_11.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "326",
+        "name": "日野森志步 12",
+        "character": "shiho",
+        "img": "shiho/shiho_12.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "327",
+        "name": "日野森志步 13",
+        "character": "shiho",
+        "img": "shiho/shiho_13.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "328",
+        "name": "日野森志步 14",
+        "character": "shiho",
+        "img": "shiho/shiho_14.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "329",
+        "name": "日野森志步 16",
+        "character": "shiho",
+        "img": "shiho/shiho_16.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "330",
+        "name": "日野森志步 17",
+        "character": "shiho",
+        "img": "shiho/shiho_17.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "331",
+        "name": "日野森志步 18",
+        "character": "shiho",
+        "img": "shiho/shiho_18.png",
+        "color": "#A0C10B",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "332",
+        "name": "日野森雫 01",
+        "character": "szk",
+        "img": "szk/szk_01.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "333",
+        "name": "日野森雫 02",
+        "character": "szk",
+        "img": "szk/szk_02.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "334",
+        "name": "日野森雫 03",
+        "character": "szk",
+        "img": "szk/szk_03.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "335",
+        "name": "日野森雫 04",
+        "character": "szk",
+        "img": "szk/szk_04.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "336",
+        "name": "日野森雫 06",
+        "character": "szk",
+        "img": "szk/szk_06.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "337",
+        "name": "日野森雫 07",
+        "character": "szk",
+        "img": "szk/szk_07.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "338",
+        "name": "日野森雫 08",
+        "character": "szk",
+        "img": "szk/szk_08.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "339",
+        "name": "日野森雫 09",
+        "character": "szk",
+        "img": "szk/szk_09.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "340",
+        "name": "日野森雫 11",
+        "character": "szk",
+        "img": "szk/szk_11.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "341",
+        "name": "日野森雫 12",
+        "character": "szk",
+        "img": "szk/szk_12.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "342",
+        "name": "日野森雫 13",
+        "character": "szk",
+        "img": "szk/szk_13.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "343",
+        "name": "日野森雫 14",
+        "character": "szk",
+        "img": "szk/szk_14.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "344",
+        "name": "日野森雫 16",
+        "character": "szk",
+        "img": "szk/szk_16.png",
+        "color": "#5CD0B9",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "345",
+        "name": "青柳冬弥 01",
+        "character": "toya",
+        "img": "toya/toya_01.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "346",
+        "name": "青柳冬弥 02",
+        "character": "toya",
+        "img": "toya/toya_02.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "347",
+        "name": "青柳冬弥 03",
+        "character": "toya",
+        "img": "toya/toya_03.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "348",
+        "name": "青柳冬弥 04",
+        "character": "toya",
+        "img": "toya/toya_04.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "349",
+        "name": "青柳冬弥 06",
+        "character": "toya",
+        "img": "toya/toya_06.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "350",
+        "name": "青柳冬弥 07",
+        "character": "toya",
+        "img": "toya/toya_07.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "351",
+        "name": "青柳冬弥 08",
+        "character": "toya",
+        "img": "toya/toya_08.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "352",
+        "name": "青柳冬弥 09",
+        "character": "toya",
+        "img": "toya/toya_09.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "353",
+        "name": "青柳冬弥 11",
+        "character": "toya",
+        "img": "toya/toya_11.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "354",
+        "name": "青柳冬弥 12",
+        "character": "toya",
+        "img": "toya/toya_12.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "355",
+        "name": "青柳冬弥 13",
+        "character": "toya",
+        "img": "toya/toya_13.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "356",
+        "name": "青柳冬弥 14",
+        "character": "toya",
+        "img": "toya/toya_14.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "357",
+        "name": "青柳冬弥 16",
+        "character": "toya",
+        "img": "toya/toya_16.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "358",
+        "name": "青柳冬弥 17",
+        "character": "toya",
+        "img": "toya/toya_17.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "359",
+        "name": "青柳冬弥 18",
+        "character": "toya",
+        "img": "toya/toya_18.png",
+        "color": "#0077DD",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "360",
+        "name": "天马司 01",
+        "character": "tks",
+        "img": "tks/tks_01.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "361",
+        "name": "天马司 02",
+        "character": "tks",
+        "img": "tks/tks_02.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "362",
+        "name": "天马司 03",
+        "character": "tks",
+        "img": "tks/tks_03.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "363",
+        "name": "天马司 04",
+        "character": "tks",
+        "img": "tks/tks_04.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "364",
+        "name": "天马司 06",
+        "character": "tks",
+        "img": "tks/tks_06.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "365",
+        "name": "天马司 07",
+        "character": "tks",
+        "img": "tks/tks_07.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "366",
+        "name": "天马司 08",
+        "character": "tks",
+        "img": "tks/tks_08.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "367",
+        "name": "天马司 09",
+        "character": "tks",
+        "img": "tks/tks_09.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "368",
+        "name": "天马司 11",
+        "character": "tks",
+        "img": "tks/tks_11.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "369",
+        "name": "天马司 12",
+        "character": "tks",
+        "img": "tks/tks_12.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "370",
+        "name": "天马司 13",
+        "character": "tks",
+        "img": "tks/tks_13.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "371",
+        "name": "天马司 14",
+        "character": "tks",
+        "img": "tks/tks_14.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "372",
+        "name": "天马司 16",
+        "character": "tks",
+        "img": "tks/tks_16.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "373",
+        "name": "天马司 17",
+        "character": "tks",
+        "img": "tks/tks_17.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "374",
+        "name": "天马司 18",
+        "character": "tks",
+        "img": "tks/tks_18.png",
+        "color": "#F09A04",
+        "defaultText": {
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    }
+]

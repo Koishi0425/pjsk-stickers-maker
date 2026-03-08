@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Disallow: /src/
+Disallow: /node_modules/
+
+# 搜索引擎特定
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# 爬取延迟
+Crawl-delay: 1
+
+Sitemap: https://st.nightcord.de5.net/sitemap.xml
