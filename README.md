@@ -38,7 +38,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/25-ji-code-de/stickers-maker.git
+git clone https://github.com/Koishi0425/pjsk-stickers-maker.git
 cd stickers-maker
 
 # 安装依赖
@@ -120,11 +120,6 @@ npm run preview
 
 **AGPL-3.0 要求**：如果你修改此程序并通过网络提供服务，你必须向用户提供修改后的源代码。
 
-## 📧 联系方式
-
-- **GitHub Issues**: [https://github.com/25-ji-code-de/stickers-maker/issues](https://github.com/25-ji-code-de/stickers-maker/issues)
-- **哔哩哔哩**: [@bili_47177171806](https://space.bilibili.com/3546904856103196)
-
 ## 🙏 致谢
 
 本项目整合并改进了以下优秀项目：
@@ -141,13 +136,3 @@ npm run preview
 如果这个项目对你有帮助，请给我们一个 Star！
 
 [![Star History Chart](https://api.star-history.com/svg?repos=25-ji-code-de/stickers-maker&type=Date)](https://star-history.com/#25-ji-code-de/stickers-maker&Date)
-
----
-
-<div align="center">
-
-**[SEKAI 生态](https://sekai.nightcord.de5.net)** 的一部分
-
-Made with 💜 by the [25-ji-code-de](https://github.com/25-ji-code-de) team
-
-</div>
